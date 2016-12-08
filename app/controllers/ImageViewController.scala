@@ -19,6 +19,7 @@ class ImageViewController @Inject() extends Controller {
 
   def delete(password: long) = Action {
     //Look up password and delete image
+    
   }
 
 }
